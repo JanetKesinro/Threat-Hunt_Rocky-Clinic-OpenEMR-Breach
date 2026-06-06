@@ -139,7 +139,7 @@ DeviceFileEvents
 ### 🖼️ Screenshot
 
 <p align="center">
-  <img src="assets/flag-01-host-validation.png" width="900" alt="Flag 1 Screenshot">
+  <img src="assets/Flag 1_RockyClinicOpenEMR.png" width="900" alt="Flag 1 Screenshot">
 </p>
 
 ### 🛠️ Detection Recommendation
