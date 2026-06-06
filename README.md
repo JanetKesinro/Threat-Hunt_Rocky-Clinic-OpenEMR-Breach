@@ -186,7 +186,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-02-docker-runtime.png`
+<p align="center">
+  <img src="assets/Flag 2_RockyClinicOpenEMR.png" width="900" alt="Flag 2 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -237,7 +239,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-03-first-enumeration.png`
+<p align="center">
+  <img src="assets/Flag 3_RockyClinicOpenEMR.png" width="900" alt="Flag 3 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -286,7 +290,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-04-database-dump.png`
+<p align="center">
+  <img src="assets/Flag 4_RockyClinicOpenEMR.png" width="900" alt="Flag 4 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -336,7 +342,9 @@ DeviceLogonEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-05-account-attribution.png`
+<p align="center">
+  <img src="assets/Flag 5_RockyClinicOpenEMR.png" width="900" alt="Flag 5 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -388,7 +396,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-06-release-files.png`
+<p align="center">
+  <img src="assets/Flag 6_RockyClinicOpenEMR.png" width="900" alt="Flag 6 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -435,7 +445,9 @@ DeviceInfo
 
 ### 🖼️ Screenshot
 
-`/assets/flag-07-deviceinfo-os.png`
+<p align="center">
+  <img src="Flag 7_RockyClinicOpenEMR.png" width="900" alt="Flag 7 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -484,7 +496,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-08-sudo-i.png`
+<p align="center">
+  <img src="assets/Flag 8_RockyClinicOpenEMR.png" width="900" alt="Flag 8 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -534,7 +548,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-09-docker-inspect.png`
+<p align="center">
+  <img src="assets/Flag 9_RockyClinicOpenEMR.png" width="900" alt="Flag 9 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -583,7 +599,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-10-env-file-read.png`
+<p align="center">
+  <img src="assets/Flag 10_RockyClinicOpenEMR.png" width="900" alt="Flag 10 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -632,7 +650,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-11-docker-volume-find.png`
+<p align="center">
+  <img src="assets/Flag 11_RockyClinicOpenEMR.png" width="900" alt="Flag 11 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -679,7 +699,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-12-mariadb-volume.png`
+<p align="center">
+  <img src="assets/Flag 12_RockyClinicOpenEMR.png" width="900" alt="Flag 12 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -727,7 +749,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-13-backup-script.png`
+<p align="center">
+  <img src="assets/Flag 13_RockyClinicOpenEMR.png" width="900" alt="Flag 13 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -776,7 +800,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-14-staging-directory.png`
+<p align="center">
+  <img src="assets/Flag 14_RockyClinicOpenEMR.png" width="900" alt="Flag 14 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -826,7 +852,9 @@ DeviceLogonEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-15-unauthorized-account.png`
+<p align="center">
+  <img src="assets/Flag 15_RockyClinicOpenEMR.png" width="900" alt="Flag 15 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -874,7 +902,9 @@ DeviceFileEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-16-vipw-identity-edit.png`
+<p align="center">
+  <img src="assets/Flag 16_RockyClinicOpenEMR.png" width="900" alt="Flag 16 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -923,7 +953,9 @@ DeviceFileEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-17-systemd-service.png`
+<p align="center">
+  <img src="assets/Flag 17_RockyClinicOpenEMR.png" width="900" alt="Flag 17 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -971,7 +1003,9 @@ DeviceFileEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-18-cat-creation.png`
+<p align="center">
+  <img src="assets/Flag 18_RockyClinicOpenEMR.png" width="900" alt="Flag 18 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1021,7 +1055,9 @@ DeviceFileEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-19-service-hash.png`
+<p align="center">
+  <img src="assets/Flag 19_RockyClinicOpenEMR.png" width="900" alt="Flag 19 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1071,7 +1107,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-20-python-reverse-shell.png`
+<p align="center">
+  <img src="assets/Flag 20_RockyClinicOpenEMR.png" width="900" alt="Flag 20 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1137,7 +1175,9 @@ py
 
 ### 🖼️ Screenshot
 
-`/assets/flag-21-shell-pid.png`
+<p align="center">
+  <img src="assets/Flag 21_RockyClinicOpenEMR.png" width="900" alt="Flag 21 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1185,7 +1225,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-22-staged-archive.png`
+<p align="center">
+  <img src="assets/Flag 22_RockyClinicOpenEMR.png" width="900" alt="Flag 22 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1234,7 +1276,9 @@ DeviceNetworkEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-23-failed-sftp.png`
+<p align="center">
+  <img src="assets/Flag 23_RockyClinicOpenEMR.png" width="900" alt="Flag 23 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1283,7 +1327,9 @@ DeviceNetworkEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-24-discord-exfil.png`
+<p align="center">
+  <img src="assets/Flag 24_RockyClinicOpenEMR.png" width="900" alt="Flag 24 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1332,7 +1378,9 @@ DeviceNetworkEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-25-exfil-endpoint.png`
+<p align="center">
+  <img src="assets/Flag 25_RockyClinicOpenEMR.png" width="900" alt="Flag 25 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1383,7 +1431,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-26-sed-delete-count.png`
+<p align="center">
+  <img src="assets/Flag 26_RockyClinicOpenEMR.png" width="900" alt="Flag 26 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1432,7 +1482,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-27-sed-log-manipulation.png`
+<p align="center">
+  <img src="assets/Flag 27_RockyClinicOpenEMR.png" width="900" alt="Flag 27 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1482,7 +1534,9 @@ DeviceProcessEvents
 
 ### 🖼️ Screenshot
 
-`/assets/flag-28-timestomp.png`
+<p align="center">
+  <img src="assets/Flag 28_RockyClinicOpenEMR.png" width="900" alt="Flag 28 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
@@ -1533,7 +1587,9 @@ AlertEvidence
 
 ### 🖼️ Screenshot
 
-`/assets/flag-29-alert-classification.png`
+<p align="center">
+  <img src="assets/Flag 29_RockyClinicOpenEMR.png" width="900" alt="Flag 29 Screenshot">
+</p>
 
 ### 🛠️ Detection Recommendation
 
