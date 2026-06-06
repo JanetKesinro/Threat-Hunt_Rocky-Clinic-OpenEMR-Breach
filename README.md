@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="PASTE-YOUR-GITHUB-IMAGE-LINK-HERE"
+    src="(https://miro.medium.com/v2/resize:fit:720/format:webp/1*G7OQSDhIPHjPvImOsVCclw.png)E"
     width="1200"
     alt="Rocky Clinic OpenEMR Threat Hunt Cover"
   />
