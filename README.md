@@ -446,7 +446,7 @@ DeviceInfo
 ### 🖼️ Screenshot
 
 <p align="center">
-  <img src="Flag 7_RockyClinicOpenEMR.png" width="900" alt="Flag 7 Screenshot">
+  <img src="assets/Flag 7_RockyClinicOpenEMR.png" width="900" alt="Flag 7 Screenshot">
 </p>
 
 ### 🛠️ Detection Recommendation
